@@ -14,7 +14,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+
 <p align="center">
+  Sophomore CS student attending Texas A&M University ('27)
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=cpp,py,java,lua" />
   </a>
